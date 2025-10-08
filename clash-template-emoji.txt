@@ -1,5 +1,4 @@
 ;1、域名组（RULE-SET）
-ruleset=🧹 Block-Lite,https://gh-proxy.com/raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/AdvertisingLite/AdvertisingLite.list
 ruleset=🧪 Test,https://gh-proxy.com/raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Speedtest/Speedtest.list
 ruleset=⛔ Block,https://gh-proxy.com/raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Advertising/Advertising.list
 ruleset=⛔ Block,https://gh-proxy.com/raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Hijacking/Hijacking.list
@@ -164,3 +163,4 @@ custom_proxy_group=🧭 其他-手动select(英|德|法|荷|瑞|俄|印|越|泰|
 ;4、启用规则集
 enable_rule_generator=true
 overwrite_original_rules=true
+
