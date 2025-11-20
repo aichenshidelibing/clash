@@ -1,0 +1,5 @@
+# Snapchat minimal ruleset for Clash/Surge
+DOMAIN-SUFFIX,snapchat.com
+DOMAIN-SUFFIX,snapkit.com
+DOMAIN-SUFFIX,sc-cdn.net
+DOMAIN,sc-analytics.appspot.com
