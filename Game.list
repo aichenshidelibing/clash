@@ -1,0 +1,9 @@
+# Nordcurrent 游戏专用分流规则（走国外代理）
+DOMAIN-SUFFIX,nordcurrent.com
+DOMAIN-SUFFIX,cookingfever.com
+DOMAIN-SUFFIX,airplanechefs.com
+DOMAIN-SUFFIX,ambilight.nordcurrent.com
+DOMAIN-SUFFIX,airplanechefs.nordcurrent.com
+DOMAIN-KEYWORD,nordcurrent
+DOMAIN-KEYWORD,cookingfever
+DOMAIN-KEYWORD,airplanechefs
