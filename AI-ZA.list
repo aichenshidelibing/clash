@@ -1,3 +1,6 @@
 DOMAIN,copilot.microsoft.com
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,sora.com
+DOMAIN-SUFFIX,openai.com
+DOMAIN-KEYWORD,sora
