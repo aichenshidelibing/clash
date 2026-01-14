@@ -34,6 +34,7 @@ DOMAIN-SUFFIX,ooklaserver.net
 DOMAIN-SUFFIX,speed.dler.io
 DOMAIN-SUFFIX,ip111.cn
 DOMAIN-KEYWORD,speedtest
+DOMAIN-SUFFIX,ipip.la
 
 
 DOMAIN-SUFFIX,cf-ipfs.com
@@ -101,3 +102,4 @@ IP-CIDR6,2606:4700::/32,no-resolve
 IP-CIDR6,2803:f800::/32,no-resolve
 IP-CIDR6,2a06:98c0::/29,no-resolve
 IP-CIDR6,2c0f:f248::/32,no-resolve
+
